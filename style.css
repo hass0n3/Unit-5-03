@@ -1,0 +1,9 @@
+
+body {
+  background-color: rgb(247, 0, 255);
+}
+
+#description {
+  font-family: monospace;
+  font-size: 25px;
+}
